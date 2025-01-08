@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.minesweeper18870.medialabminesweeper.Medialab_Minesweepe
+ r
+
